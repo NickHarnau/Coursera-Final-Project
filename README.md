@@ -10,5 +10,5 @@ As a last add on, I will make a recommendation for each borough, what kind of re
 
 # Data
 I scrap the relevant information about the relevenat the borough from https://de.wikipedia.org/wiki/Liste_der_Stadtteile_von_Darmstadt. I am only going to focus on boroughs in the city itself, on the webpage under "Darmstadt Innenstadt" - not districts from the further city area. 
-To receive the location Data I use the python lib "geocode". 
+
 To check the amount and kind of restaurants I use the Foursquare Api. 
